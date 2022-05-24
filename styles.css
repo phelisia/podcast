@@ -44,7 +44,7 @@ li,a,button{
     cursor: pointer;
     transition: all 0.3s ease 0s;
     opacity: 0.5;
-    background-color: rgb(184, 176, 176);
+    background-color: maroon;
     border:2px solid #FFFFFF;
     
     
@@ -83,28 +83,21 @@ p{
     margin-top:-9%;
 }
 .one img{
-    width: 300px;
-    height: 300px;
+    background-color:rgb(82, 77, 77);
     border-top-left-radius: 35px;
     border-bottom-right-radius:35px ;
-    background-color:rgb(82, 77, 77);
     opacity: 0.5;
-
+    align-items: center;
 }
 
-.two{
-    width: 300px;
-    height: 300px;
+.two img{
     border-top-left-radius: 35px;
     border-bottom-right-radius:35px ;
-    background-color:rgb(82, 77, 77);
     opacity: 0.5;
-    
-
+    background-color:rgb(82, 77, 77);
+    align-items: center;
 }
-.three{
-    width: 300px;
-    height: 300px;
+.three img{
     border-top-left-radius: 35px;
     border-bottom-right-radius:35px ;
     background-color:rgb(82, 77, 77);
@@ -112,7 +105,9 @@ p{
     
 
 }
-.four{
+
+
+.five img{
     width: 300px;
     height: 300px;
     border-top-left-radius: 35px;
@@ -121,18 +116,7 @@ p{
     opacity: 0.5;
 
 }
-.five{
-    width: 300px;
-    height: 300px;
-    border-top-left-radius: 35px;
-    border-bottom-right-radius:35px ;
-    background-color:rgb(82, 77, 77);
-    opacity: 0.5;
-
-}
-.six{
-    width: 300px;
-    height: 300px;
+.six img{
     border-top-left-radius: 35px;
     border-bottom-right-radius:35px ;
     background-color:rgb(82, 77, 77);
